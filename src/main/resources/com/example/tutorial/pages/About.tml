@@ -1,0 +1,29 @@
+<html t:type="layout" title="About tutorial1"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <div class="row">
+        <div class="span12">
+            <p>This application is built by Brandon Rudisel for his software engineering class.</p>
+            <p></p>
+            <p>This application allows a user to:</p>
+            <p>1) List some custom entities in a table</p>
+            <p>2) View and edit details about a particular custom entity</p>
+            <p>3) Create new custom entities</p>
+            <p>4) Remove custom entities</p>
+        </div>
+    </div>
+
+    <t:if test="learn">
+        <div class="row">
+            <div class="span12">
+                <p>
+                    To learn more go to
+                    <a href="http://tapestry.apache.org">Tapestry home</a>
+                    and start typing...
+                </p>
+            </div>
+        </div>
+    </t:if>
+
+</html>
