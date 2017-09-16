@@ -5,6 +5,6 @@
     <p>Delete things:</p>
     <t:grid source="addresses" include="honorific,firstName,lastName,street1,city,state,zip,phone"/>
     
-    <button type="button" onclick="alert('Hello world!')">Delete</button>
+    <button type="button" onclick="alert('Functionality Coming Never...')">Delete</button>
     
 </html>

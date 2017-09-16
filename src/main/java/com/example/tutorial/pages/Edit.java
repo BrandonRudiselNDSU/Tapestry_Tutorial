@@ -14,4 +14,8 @@ public class Edit {
 	public List<Address> getAddresses() {
 		return session.createCriteria(Address.class).list();
 	}
+	
+	public void setAddresses() {
+		System.out.println("asd;lfkjads;lfkjasd;lfjas;ldfjl;asdjf");
+	}
 }

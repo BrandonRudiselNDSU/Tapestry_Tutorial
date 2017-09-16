@@ -1,6 +1,6 @@
 <html 
 	t:type="layout" title="Create New Address" 
 	xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"> 
-	<t:beaneditform object="address" submitlabel="Create Address" 
+	<t:beaneditform object="address" submitlabel="Create New Friend" 
 	reorder="honorific,firstName,lastName,street1,street2,city,state,zip,email,phone" />
 </html>
