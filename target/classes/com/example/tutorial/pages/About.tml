@@ -4,13 +4,19 @@
 
     <div class="row">
         <div class="span12">
-            <p>This application is built by Brandon Rudisel for his software engineering class.</p>
-            <p></p>
+            <p>This application was built by Brandon Rudisel for his software engineering class.
+            <br/>It turned out pretty bad, but at least it sucks...
+            </p>
+
+            
+            
+            
+            
             <p>This application allows a user to:</p>
-            <p>1) List some custom entities in a table</p>
-            <p>2) View and edit details about a particular custom entity</p>
-            <p>3) Create new custom entities</p>
-            <p>4) Remove custom entities</p>
+            <p>1) List some custom entities in a table (Yep)</p>
+            <p>2) View and edit details about a particular custom entity (It'll let you view at least)</p>
+            <p>3) Create new custom entities(Yep)</p>
+            <p>4) Remove custom entities(Ha, right)</p>
         </div>
     </div>
 
