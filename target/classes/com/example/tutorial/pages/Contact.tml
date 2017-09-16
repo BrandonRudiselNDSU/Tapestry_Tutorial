@@ -2,6 +2,6 @@
       xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
       xmlns:p="tapestry:parameter">
 
-    <p>Contact Brandon Rudisel with the following Email</p>
+    <p>Contact Brandon Rudisel with the following Email:</p>
 	<p>brandon.a.rudisel@ndsu.edu</p>
 </html>
